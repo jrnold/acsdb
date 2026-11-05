@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+# Built by scripts/build_sqlite.py
+data/processed/
