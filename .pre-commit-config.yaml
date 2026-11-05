@@ -72,3 +72,18 @@ repos:
     hooks:
       - id: typos
         args: [--force-exclude]  # report only; `typos -w` fixes
+
+  - repo: local
+    hooks:
+      - id: panache-format
+        name: panache format (Quarto, R Markdown, Markdown)
+        entry: panache format
+        language: python
+        additional_dependencies: [panache-cli==3.17.0]
+        files: \.(qmd|Rmd|md)$
+      - id: panache-lint
+        name: panache lint
+        entry: panache lint
+        language: python
+        additional_dependencies: [panache-cli==3.17.0]
+        files: \.(qmd|Rmd|md)$
