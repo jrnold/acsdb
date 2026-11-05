@@ -1,6 +1,6 @@
 # ACSDB: the Ardennes Campaign Simulation Data Base
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23968497.svg)](https://doi.org/10.5281/zenodo.23968497)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23968496.svg)](https://doi.org/10.5281/zenodo.23968496)
 [![Lint](https://github.com/jrnold/acsdb/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/jrnold/acsdb/actions/workflows/lint.yml)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -47,7 +47,7 @@ confirm the copy is complete.
 ## Data release
 
 The database, its SQLite copy and the documentation are archived on Zenodo:
-[10.5281/zenodo.23968497](https://doi.org/10.5281/zenodo.23968497).
+[10.5281/zenodo.23968496](https://doi.org/10.5281/zenodo.23968496).
 
 ## Rights
 
