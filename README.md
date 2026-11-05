@@ -1,5 +1,9 @@
 # ACSDB: the Ardennes Campaign Simulation Data Base
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23968497.svg)](https://doi.org/10.5281/zenodo.23968497)
+[![Lint](https://github.com/jrnold/acsdb/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/jrnold/acsdb/actions/workflows/lint.yml)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Source files for the Ardennes Campaign Simulation Data Base (ACSDB), a daily unit-level database of the
 1944 Ardennes Campaign (Battle of the Bulge). It was delivered to the US Army Concepts Analysis Agency
 in 1989 under contract MDA903-87-C-0787.
@@ -39,6 +43,11 @@ number ADM001245 (DTIC accession ADM001245). The Center for Army Analysis prepar
 `CONTENTS.TXT` describes eight dBASE IV files, which are not in this copy, and doesn't list
 `DBFIELDS.PDF`. `ADDB.mdb` and `CONTENTS.TXT` are what was saved from the CD in 2015. Compare them with the disc to
 confirm the copy is complete.
+
+## Data release
+
+The database, its SQLite copy and the documentation are archived on Zenodo:
+[10.5281/zenodo.23968497](https://doi.org/10.5281/zenodo.23968497).
 
 ## Rights
 
