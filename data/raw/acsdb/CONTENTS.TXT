@@ -1,0 +1,18 @@
+CONTENTS OF ARDENNES CAMPAIGN COMPACT DISC
+
+This compact disc (CD) is being prepared in March, 2000, by the Center for Army Analysis, Fort Belvoir, VA, to provide an electronic archive, suitable for distribution, of the database of the 1944 Ardennes Campaign (Battle of the Bulge) delivered to the US Army Concepts Analysis Agency in 1989 under contract No. MDA903-87-C-0787.
+
+Data converted to Office 2000 in December 2000.
+
+The eight files: Air.dbf, Bibliog.dbf, Inventor.dbf, Referenc.dbf, TOE.dbf, Unitdata.dbf, Unitloc.dbf, and Wpns.dbf are DBase IV files, which can be imported by spreadsheet software.
+
+The files with suffix "pdf" are Adobe Acrobat files containing scanned images of documentation, as follows:
+Usrguide.pdf: Excerpt from the Ardennes Campaign Simulation Data Base (ACSDB) User's Guide, dated 18 December 1989, listing the fields of each of the DBase IV files.
+SecI-II.pdf: Excerpts from Sections I (Introduction) and II (ACSDB Unit Data Base) of the ACSDB Final Report, dated 7 Feb 1990.
+AppIIA-F.pdf: Excerpts from Appendices A (US Divisional Personnel Data), B (US Non-Divisional Personnel Data), C (US Medical Facilities Data), D (US Logistics Data), E (Derivation of the US Order of Battle), and F (British Personnel, Logistics, and Order of Battle Data Derivation) of Section II of the ACSDB Final Report.
+AppIIG.pdf: Excerpts from Appendix G (German Personnel Data) of Section II of the ACSDB Final Report.
+AppIIH-I.pdf: Excerpts from Appendices H (Derivation of German Logistics Data) and I (Compilation of German Order of Battle) of Section II of the ACSDB Final Report.
+SecIII-V.pdf: Excerpts from Sections III (The ACSDB Unit Inventory Data Base), IV (The ACSDB Unit Location Data Base) and V (The ACSDB Air Data Base) of the ACSDB Final Report.
+SecVI-X.pdf: Excerpts from Sections VI (The ACSDB T/O&E (Table of Organization and Equipment) Data Base), VII (The ACSDB Weapons Data Base), VIII (The ACSDB Reference Data Base), IX (The ACSDB Bibliography Data Base) and X (ACSDB Time Conventions) of the ACSDB Final Report.
+Mapcoord.dbf: Robert L. Helmbold Memorandum "Description of the Map Grid Used in the Ardennes Data Base," dated 22 October 1991.
+Geosumry.dbf: Summary by Walter Bauman of algorithms for converting ACSDB location coordinates to standard longitude and latitude.
