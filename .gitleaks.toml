@@ -1,0 +1,8 @@
+# gitleaks scans what is staged rather than the files prek passes it, so the exclude in
+# .pre-commit-config.yaml doesn't reach it.
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Source files as received"
+paths = ['''^data/raw/''']

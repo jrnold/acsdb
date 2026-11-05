@@ -19,3 +19,5 @@ extend-ignore-re = [
 ]
 
 [default.extend-words]
+# The source database has a table with this name
+referenc = "referenc"

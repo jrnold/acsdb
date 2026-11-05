@@ -16,6 +16,18 @@ in 1989 under contract MDA903-87-C-0787.
   | `APPIIA-F.PDF`, `APPIIG.PDF`, `APPIIH-I.PDF` | Final report appendix excerpts                            |
   | `MAPCOORD.PDF`, `GEOSUMRY.PDF`               | The map grid and coordinate conversion                    |
 
+## SQLite database
+
+`scripts/build_sqlite.py` copies the Access database to `data/processed/acsdb.sqlite`, changing only
+the file format:
+
+```sh
+uv run scripts/build_sqlite.py
+```
+
+Tables, columns, row order and values are as in the source, including its errors and its codes for
+missing values. SQLite has no date type, so dates are stored as `YYYY-MM-DD HH:MM:SS` text.
+
 ## Provenance
 
 Purchased on CD-ROM from the National Technical Information Service (NTIS) in September 2015, order
