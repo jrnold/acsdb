@@ -8,13 +8,13 @@ in 1989 under contract MDA903-87-C-0787.
 
 `data/raw/acsdb/` holds the files as received, unmodified. Start with `CONTENTS.TXT`.
 
-| File | Contents |
-| ---- | -------- |
-| `ADDB.mdb` | The database, in Microsoft Access format |
-| `USRGUIDE.PDF`, `DBFIELDS.PDF` | The user's guide excerpt and database field documentation |
-| `SECI-II.PDF`, `SECIII-V.PDF`, `SECVI-X.PDF` | Final report excerpts |
-| `APPIIA-F.PDF`, `APPIIG.PDF`, `APPIIH-I.PDF` | Final report appendix excerpts |
-| `MAPCOORD.PDF`, `GEOSUMRY.PDF` | The map grid and coordinate conversion |
+  | File                                         | Contents                                                  |
+  | -------------------------------------------- | --------------------------------------------------------- |
+  | `ADDB.mdb`                                   | The database, in Microsoft Access format                  |
+  | `USRGUIDE.PDF`, `DBFIELDS.PDF`               | The user's guide excerpt and database field documentation |
+  | `SECI-II.PDF`, `SECIII-V.PDF`, `SECVI-X.PDF` | Final report excerpts                                     |
+  | `APPIIA-F.PDF`, `APPIIG.PDF`, `APPIIH-I.PDF` | Final report appendix excerpts                            |
+  | `MAPCOORD.PDF`, `GEOSUMRY.PDF`               | The map grid and coordinate conversion                    |
 
 ## Provenance
 
